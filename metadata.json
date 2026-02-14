@@ -1,0 +1,7 @@
+{
+  "name": "Profx - EEE AI Specialist",
+  "description": "A world-class Electrical and Electronic Engineering (EEE) specialist AI capable of real-time voice conversations and bilingual technical assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
